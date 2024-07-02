@@ -1,2 +1,1 @@
-# Midterm Docker Challenge
- 
+# docker-challenge-template
